@@ -1,1 +1,2 @@
-input/application_train.csv
+input/*.csv
+!input/application_test.csv 
